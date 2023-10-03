@@ -24,7 +24,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
 
-`git clone git@github.com:thebarcelonaguy/DSCI-551-Project.git`
+`git clone git@github.com:Samarth1337/Emulate_HDFS_MapReduce.git`
 
 2. Run the program:
 
